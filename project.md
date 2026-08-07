@@ -4,7 +4,7 @@ El proyecto deberá implementar una arquitectura limpia y escalable con separaci
 
 A nivel de base de datos, se deberán desarrollar consultas SQL complejas orientadas al análisis y optimización del rendimiento mediante el uso de EXPLAIN ANALYZE, índices compuestos, optimización de consultas y vistas materializadas. También se incluirán scripts de automatización mediante Bash, gestión del proyecto con Poetry y un entorno completamente dockerizado utilizando Docker Compose para facilitar su ejecución y despliegue.
 
-SCHEMA
+**SCHEMA:**
 
 products
 id
