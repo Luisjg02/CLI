@@ -23,5 +23,4 @@ elif yarel and hombria <= 70:
     print("yarel es hijo de maricon")
 
 else:
-    print("yarel es un hombre bacano")
-
+    print("yarel es un hombre baca, no")
